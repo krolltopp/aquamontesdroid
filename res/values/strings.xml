@@ -4,5 +4,7 @@
     <string name="app_name">aquamontes</string>
     <string name="title_main">aquamontes</string>
     <string name="action_settings">settings</string>
+    <string name="simple_activity_launch_label">Launch Simple Activity</string>
+    <string name="2d_activity_launch_label">Launch Simple Activity</string>
     
 </resources>
