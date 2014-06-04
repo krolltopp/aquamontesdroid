@@ -5,6 +5,17 @@
     <string name="title_main">aquamontes</string>
     <string name="action_settings">settings</string>
     <string name="simple_activity_launch_label">Launch Simple Activity</string>
-    <string name="2d_activity_launch_label">Launch Simple Activity</string>
-    
+    <string name="activity_simple_go_button">Go</string>
+    <string name="activity_2d_launch_label">Launch 2D Activity</string>
+    <string name="activity_storage_launch_label">Launch Storage Activity</string>
+    <string name="activity_web_launch_label">Launch Web Activity</string>
+    <string name="activity_async_launch_label">Launch Async Activity</string>
+    <string name="about_label">About</string>
+    <string name="about_text">        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Quisque porta id leo et dictum. In dignissim consequat est.
+        Phasellus at.</string>
+    <string name="title_activity_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_simple">Simple</string>
+
 </resources>
